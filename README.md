@@ -1,2 +1,2 @@
 # developers-for-wordpress
-Integrate Cravatar for WordPress themes
+Integrate Cravatar for WordPress
